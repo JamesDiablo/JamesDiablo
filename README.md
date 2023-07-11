@@ -12,7 +12,7 @@
   <img src="https://www.codewars.com/users/JDiablo/badges/large"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="display: flex;justify-content: space-evenly;">
   <a href="https://www.linkedin.com/in/vadim-reznikov465/">
       <img src="https://i.imgur.com/HCDDzEL.jpg"/>
   </a>
