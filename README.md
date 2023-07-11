@@ -14,9 +14,9 @@
 
 <div id="badges" align="center" style="display: flex;justify-content: space-evenly;">
   <a href="https://www.linkedin.com/in/vadim-reznikov465/">
-      <img src="https://i.imgur.com/HCDDzEL.jpg"/>
+      <img src="https://i.imgur.com/FfkjSNe.jpg" width="125px" height="30px"/>
   </a>
   <a href="https://t.me/swagswag">
-      <img src="https://i.imgur.com/yQb59xB.jpg"/>
+      <img src="https://i.imgur.com/3TkYaQF.jpg" width="125px" height="30px"/>
   </a>  
 </div>
